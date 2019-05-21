@@ -1,0 +1,19 @@
+.listChapters {
+    display: block;
+    margin: 10% auto 0 auto;
+    width: 90%;
+}
+
+.chapterBox {
+    display: inline-block;
+    width: 45%;
+    min-width: 34%;
+    margin: auto 0px 20px 10px;
+    box-shadow: inset 6px 0 0 #D9D1B0;
+    padding-left: 15px;
+}
+
+.text {
+    margin: auto;
+    text-align: center;
+}

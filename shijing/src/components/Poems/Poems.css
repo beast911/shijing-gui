@@ -1,0 +1,40 @@
+.chapter-center {
+    margin-left:30px;
+    height:85vh;
+  }
+  
+  .scroll {
+    overflow:auto;
+  }
+  
+  .title {
+    align-self:center;
+    padding-bottom:20px;
+    padding-top:20px;
+    font-size:23px;
+  }
+  
+  .chapter {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .center-poems-list {
+    flex-direction:column;
+    text-overflow:ellipsis;
+    width:70vw;
+    min-height: 30px;
+    margin-bottom:15px;
+    margin-top:15px;
+  }
+  
+  .poem-list {
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    display: block;
+  }
+  
+  .highlight {
+    color:#C2BBA1;
+  }
